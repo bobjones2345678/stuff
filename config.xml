@@ -1,0 +1,68 @@
+<system>
+	
+	<!-- version -->
+	<version type="String">0.0.1</version>
+	<versionSo type="String">0.0.1</versionSo>
+	
+	<!-- game quality -->
+	<quality type="String">HIGH</quality>
+
+	<!-- debug -->
+	<fps type="Boolean">false</fps>
+	<debug type="Boolean">false</debug>
+	<export type="Boolean">false</export>
+	<debugBounce type="Boolean">false</debugBounce>
+	<cheat type="Boolean">false</cheat>
+	<debugMode type="String">debug</debugMode>
+	<frameRate type="Number">30</frameRate>
+	<showRasterizations type="Boolean">false</showRasterizations>
+	<parseLvlD type="Boolean">false</parseLvlD>
+	
+	<!-- export IOS -->
+	<textureGenerator type="String">single</textureGenerator>
+	<exportAssets type="Boolean">false</exportAssets>
+	
+	<!-- paths -->
+	
+	<templates type="String">templates.swf</templates>
+	<sprites type="String">sprites.swf</sprites>
+	<blocks type="String">blocks.swf</blocks>
+	<characters type="String">characters.swf</characters>
+	<level_design1 type="String">level_design1.swf</level_design1> <!-- note: not used for release build -->
+	<level_decoration1 type="String">level_decoration1.swf</level_decoration1> <!-- note: not used for release build -->
+	<level_design2 type="String">level_design2.swf</level_design2> <!-- note: not used for release build -->
+	<level_decoration2 type="String">level_decoration2.swf</level_decoration2> <!-- note: not used for release build -->
+	<level_design3 type="String">level_design3.swf</level_design3> <!-- note: not used for release build -->
+	<level_decoration3 type="String">level_decoration3.swf</level_decoration3> <!-- note: not used for release build -->
+	<level_design_xml type="String">level_design_xml.swf</level_design_xml>
+
+	<!-- xml lvlD -->
+	<useFilelvlD type="Boolean">false</useFilelvlD>
+	
+	<!-- video -->
+	<playVideo type="Boolean">true</playVideo>
+	
+	<gameDev type="Boolean">false</gameDev>
+	
+	<!-- controls -->
+	<control_left type="String">a</control_left>
+	<control_right type="String">d</control_right>
+	<control_up type="String">w</control_up>
+	<control_down type="String">s</control_down>
+	<control_shoot type="String">space</control_shoot>
+	<disableArrows type="Boolean">false</disableArrows>
+	<pressNext type="String">space</pressNext>
+	
+	<perfectScore type="Array">1, 7, 5, 5, 5, 6, 9, 9, 7, 8, 6, 5, 3, 7, 11, 0, 5, 2, 4, 3, 3, 4, 5, 4, 8, 4, 2, 2, 2, 9</perfectScore>
+	
+	<!-- fonts system -->
+	<!-- newFonts: list the names of the fonts contained in the fonts.fla, which replaces swapFonts -->
+	<!-- classFonts: list the class path of the fonts contained in the fonts.fla -->
+	<!--
+	<fonts type="String">fonts.swf</fonts>
+	<swapFonts type="Array">Kozuka Gothic Pr6N EL</swapFonts>	
+	<newFonts type="Array">Arial Unicode MS,Arial Unicode MS,Arial Unicode MS</newFonts>
+	<embedFonts type="Array">true</embedFonts>
+	<classFonts type="Array">com.disney.minigames.trnu_spl_act_escapefromargoncity.ArialUnicodeMS</classFonts>
+	-->
+</system>
