@@ -62,29 +62,29 @@
   <int_construction_insufficient>AWAITING FUNDS</int_construction_insufficient>
   <int_construction_max>MAX BUILT</int_construction_max>
 
-  <int_power_low>Low power - construction slowed</int_power_low>
-  <int_power_off>Insufficient power - guns offline</int_power_off>
-  <int_power_on>Full power restored</int_power_on>
+  <int_power_low>Proline is hydrophobicc</int_power_low>
+  <int_power_off>Valine is nonpolar/HP</int_power_off>
+  <int_power_on>Leucine is hydrophobic</int_power_on>
 
-  <int_BA_good_title>Eagle Command Base</int_BA_good_title>
-  <int_BB_good_title>Power Plant</int_BB_good_title>
-  <int_BC_good_title>Training Camp</int_BC_good_title>
-  <int_BD_good_title>Defence Station</int_BD_good_title>
-  <int_BE_good_title>Vehicle Factory</int_BE_good_title>
-  <int_BF_good_title>Radar Station</int_BF_good_title>
-  <int_BG_good_title>Technology Centre</int_BG_good_title>
-  <int_BH_good_title>Satellite Uplink</int_BH_good_title>
+  <int_BA_good_title>nonpolaraliphatic Glycine </int_BA_good_title>
+  <int_BB_good_title>Alanine aliphatic</int_BB_good_title>
+  <int_BC_good_title>Isoleucine nonpolar</int_BC_good_title>
+  <int_BD_good_title>Methionine nonpolar</int_BD_good_title>
+  <int_BE_good_title>Phenylalanine nonpolar aromatic</int_BE_good_title>
+  <int_BF_good_title>Tryptophan aromatic</int_BF_good_title>
+  <int_BG_good_title>Tyrosine aromatic, hydrophilic neutral</int_BG_good_title>
+  <int_BH_good_title>Serine hydrophilic neutral</int_BH_good_title>
   <int_BI_good_title>Soccer Pitch</int_BI_good_title>
-  <int_BK_good_title>MX-81 Ops Ship</int_BK_good_title>
-  <int_BL_good_title>MT-201 Driller</int_BL_good_title>
-  <int_BX_good_title>Rocket</int_BX_good_title>
+  <int_BK_good_title>Threonine hydrophilic N</int_BK_good_title>
+  <int_BL_good_title>Cysteine hydrophilic N</int_BL_good_title>
+  <int_BX_good_title>Asparagine hydrophilic N</int_BX_good_title>
 
-  <int_UA_good_title>Infantry</int_UA_good_title>
-  <int_UB_good_title>Engineer</int_UB_good_title>
-  <int_UC_good_title>JetPack Explorer</int_UC_good_title>
-  <int_UD_good_title>Crystal Miner</int_UD_good_title>
-  <int_UE_good_title>Trike</int_UE_good_title>
-  <int_UF_good_title>ClawTank Ambush</int_UF_good_title>
+  <int_UA_good_title>Gln Q HPhil N</int_UA_good_title>
+  <int_UB_good_title>K + Hphil basic</int_UB_good_title>
+  <int_UC_good_title>R + Hphil basic</int_UC_good_title>
+  <int_UD_good_title>H + Hphil basic</int_UD_good_title>
+  <int_UE_good_title>D- Hphil Acidic</int_UE_good_title>
+  <int_UF_good_title>E- Hphil Acidic</int_UF_good_title>
   <int_UG_good_title>Astro Fighter</int_UG_good_title>
   <int_UH_good_title>Recon Dropship</int_UH_good_title>
   <int_UJ_good_title>Pizza Delivery</int_UJ_good_title>
